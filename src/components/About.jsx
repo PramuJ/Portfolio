@@ -23,7 +23,7 @@ function About() {
         transition={{duration : 1}}
         className="w-full lg:w-1/2">
             <div className="flex justify-center lg:justify-start">
-                <p className="max-w-xl py-6 my-2">{ABOUT_TEXT}</p>
+                <p className="max-w-xl py-6 my-2 text-xl">{ABOUT_TEXT}</p>
                 
             </div>
             </motion.div>

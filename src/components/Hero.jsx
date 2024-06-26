@@ -1,6 +1,6 @@
 import { HERO_CONTENT} from '../constants/index'
 import { motion } from "framer-motion"
-import ProfPhoto from "../assets/f3fe4d0b949aa38c0a35f5e739e0b40b.jpg"
+import ProfPhoto from "../assets/about-original.jpg"
 
 const container = (delay) => ({
   hidden: {x : -500 , opacity: 0 },
@@ -36,7 +36,7 @@ function Hero() {
                 variants={container(1)}
                 initial="hidden"
                 animate="visible"
-                className="max-w-xl py-6 my-2 font-light tracking-tighter"> {HERO_CONTENT}</motion.p>
+                className="max-w-xl py-6 my-2 text-xl tracking-tighter"> {HERO_CONTENT}</motion.p>
                 
                 </div>
                 </div>
