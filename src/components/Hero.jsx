@@ -44,7 +44,7 @@ function Hero() {
                 <div className='flex justify-center'>
                   <motion.img
                   initial={{opacity: 0 , x : 100}} 
-                  animate={{opacity: 1 , x : -50}}
+                  animate={{opacity: 1 , x : 0}}
                   transition={{duration: 1 , delay : 1.2}}
                   src={ProfPhoto} alt=""  width="500px" className='rounded-2xl'/>
                 
