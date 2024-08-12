@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "138/1 Bandarapola, Kiula, Matale",
   phoneNo: "+94 71 2966 214 ",
   email: "pramujomega@gmail.com",
 };
