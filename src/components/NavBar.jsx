@@ -12,7 +12,7 @@ function NavBar() {
           <a href="https://github.com/PramuJ" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="https://www.linkedin.com/in/pramuditha-jayasundara-97518116/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/pramuditha-jayasundara-6657421a6" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
           <a href="https://www.instagram.com/pramu_j?igsh=MXBoOXlqY3B6Z3lubQ==" target="_blank" rel="noopener noreferrer">
